@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\WorkSpace\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\WorkSpace\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\Other Files\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Other Files\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\Other Files\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\Other Files\\PracticeDemo\\MyNewsDemo\\lib-ViewPagerIndicator\\src\\main\\res\\color\\vpi__light_theme.xml"
+    }
+]

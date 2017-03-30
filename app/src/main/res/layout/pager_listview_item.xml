@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:id="@+id/news_pager"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp">
+    <ImageView
+        android:id="@+id/pageList_iv_icon"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:src="@drawable/newspage_item_pic"
+        android:padding="1dp"
+        android:scaleType="fitXY"
+        android:background="@android:color/darker_gray"/>
+    <TextView
+        android:id="@+id/pageList_tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="网上大讲堂第368期预告：义务环保人人有责"
+        android:layout_toRightOf="@id/pageList_iv_icon"
+        android:layout_marginLeft="5dp"
+        android:maxLines="2"
+        android:textSize="16sp"
+        android:ellipsize="end"/>
+    <TextView
+        android:id="@+id/pageList_tv_pubdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2016-09-13 11:11"
+        android:layout_toRightOf="@id/pageList_iv_icon"
+        android:layout_below="@id/pageList_tv_title"
+        android:layout_marginLeft="5dp"
+        android:singleLine="true"
+        android:textSize="14sp"
+        android:textColor="@android:color/darker_gray"
+        android:ellipsize="end"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/news_comment_num"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"/>
+</RelativeLayout>
